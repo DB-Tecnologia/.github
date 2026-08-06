@@ -169,10 +169,6 @@ Tem uma ideia, um processo que precisa ser automatizado ou um sistema que precis
 
 A DB Tecnologia pode ajudar desde a definição inicial do projeto até o desenvolvimento, implantação e evolução da solução.
 
-### Contato
-
-- **Empresa:** DB Tecnologia
-- **WhatsApp:** `https://wa.me/5512988229778`
 
 ---
 
